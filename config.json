@@ -1,0 +1,17 @@
+{
+  "token": "NzQ5Njk2MTIyODIxNDExMDA5.X0vu7A.cPuBSpPGls1uTxEwqzi6_Iw8z_o",
+  "prefix": "::",
+  "dono": "worthdavi#7826",
+  "normalCommands":{
+    "helpWord": "help"
+  },
+  "bossCommands":{
+      "helpWord": "help",
+      "listWord": "list"
+  },
+  "client": {
+    "name": "wTibia",
+    "token": "",
+    "presence": "::help"
+  }
+}
