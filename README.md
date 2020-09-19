@@ -1,2 +1,2 @@
-# wTibia
+# wtibia
 a bot for tibia discords
