@@ -10,7 +10,7 @@
       "listWord": "list"
   },
   "client": {
-    "name": "wTibia",
+    "name": "wtibia",
     "token": "",
     "presence": "::help"
   }
